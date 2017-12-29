@@ -1,0 +1,3 @@
+const testPckg = require('./')
+
+testPckg()
